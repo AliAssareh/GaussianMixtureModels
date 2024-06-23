@@ -2,7 +2,7 @@
 
 This repository contains a Python implementation of the Gaussian Mixture Model (GMM) parameter estimation using the Expectation-Maximization (EM) algorithm. It includes detailed visualizations in both 2D and 3D, as well as animated transitions between iterations to help in understanding how GMM parameters evolve over time.
 
-![Demo Animation](https://github.com/AliAssareh/GaussianMixtureModels/2.5d_gmm.gif?raw=true)
+![Demo Animation](https://github.com/AliAssareh/GaussianMixtureModels/blob/main/2.5d_gmm.gif?raw=true)
 
 
 ## Description
